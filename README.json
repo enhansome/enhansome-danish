@@ -1,0 +1,552 @@
+{
+  "items": [
+    {
+      "description": "",
+      "items": [],
+      "title": "Data"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "XED",
+          "description": "emotion annotated movie subtitles. Described in XED: A Multilingual Dataset for Sentiment Analysis and Emotion Detection (Scholia).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2023-05-03T06:54:20Z",
+            "owner": "Helsinki-NLP",
+            "repo": "XED",
+            "stars": 64
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Corona Dataset",
+          "description": "Question dataset from Certainly annotated for domain and intent.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2020-05-07T09:12:09Z",
+            "owner": "certainlyio",
+            "repo": "corona_dataset",
+            "stars": 11
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "DaN+",
+          "description": "annotated for nested named entities on top of the entire Danish Universal Dependencies (UD_Danish-DDT) and 3 new web domains and includes lexical normalization. Described in DaN+: Danish Nested Named Entities and Lexical Normalization",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-01-24T08:54:43Z",
+            "owner": "bplank",
+            "repo": "DaNplus",
+            "stars": 4
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Danish review dataset",
+          "description": "Trustpilot-crawled dataset by Alessandro Gianfelici with 44,085 reviews .",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2023-10-22T15:56:23Z",
+            "owner": "AlessandroGianfelici",
+            "repo": "danish_reviews_dataset",
+            "stars": 2
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SemDaX",
+          "description": "POS-tagged (only adjectives, nouns and verbs), super sense tagged and BIO-tagged sentences. For educational, teaching or research purposes only.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2022-12-08T11:40:51Z",
+            "owner": "coastalcph",
+            "repo": "semdax",
+            "stars": 1
+          }
+        }
+      ],
+      "title": "Corpora"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "AFINN",
+          "description": "Danish lexicons annotated for sentiment.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2022-04-04T18:14:28Z",
+            "owner": "fnielsen",
+            "repo": "afinn",
+            "stars": 473
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "The Danish Sentiment Lexicon",
+          "description": "Det Danske Sentimentleksikon (DDS) 13,859 headwords assigned with polarity values.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2022-12-20T12:53:35Z",
+            "owner": "dsldk",
+            "repo": "danish-sentiment-lexicon",
+            "stars": 9
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SAM lexicon",
+          "description": "sentiment analysis word list extended from AFINN to 4275 lines. Described in Sentiment Analysis Multitool, SAM.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2020-05-28T10:12:35Z",
+            "owner": "steffan267",
+            "repo": "Sentiment-Analysis-on-Danish-Social-Media",
+            "stars": 9
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "concreteness-estimates-da",
+          "description": "Bill D. Thompson's concreteness estimates for Danish words, as detailed in Automatic Estimation of Lexical Concreteness in 77 Languages (Scholia).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2018-02-02T05:46:51Z",
+            "owner": "billdthompson",
+            "repo": "cogsci-auto-norm",
+            "stars": 0
+          }
+        }
+      ],
+      "title": "Dictionaries and ontologies"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Wordsim353-da",
+          "description": "Danish translation by Finn Årup Nielsen of the English Wordsim353 English word pair set. Also available in danlp.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2020-09-24T20:21:38Z",
+            "owner": "fnielsen",
+            "repo": "dasem",
+            "stars": 18
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Four words",
+          "description": "100 odd-one-out sets of 4 words or phrases.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2020-09-24T20:21:38Z",
+            "owner": "fnielsen",
+            "repo": "dasem",
+            "stars": 18
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Danish-Similarity-Dataset",
+          "description": "Similarity scores for 99 Danish word pairs by Nina Schneidermann and Bolette Sandford Pedersen. Also available in danlp.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2020-05-22T07:56:13Z",
+            "owner": "kuhumcst",
+            "repo": "Danish-Similarity-Dataset",
+            "stars": 8
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Clinical similarity dataset",
+          "description": "289 word pairs score for similarity.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2023-03-07T08:40:51Z",
+            "owner": "jannikskytt",
+            "repo": "DaClinWordEmbeddings",
+            "stars": 0
+          }
+        }
+      ],
+      "title": "Word sets"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Danish BERT",
+          "description": "Certainly's (Botxo/Møllerhøj) Weights for a BERT trained on a large Danish corpora.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2021-11-12T15:30:33Z",
+            "owner": "certainlyio",
+            "repo": "nordic_bert",
+            "stars": 174
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "WikiBERT",
+          "description": "BERT model for many languages, including Danish. Described in WikiBERT models: deep transfer learning for many languages (Scholia)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2020-05-25T01:08:11Z",
+            "owner": "TurkuNLP",
+            "repo": "wikibert",
+            "stars": 33
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Danish ELECTRA",
+          "description": "Philip Tamimi-Sarnikowski's Danish ELECTRA model. Available in the transformer library.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2021-08-27T08:34:54Z",
+            "owner": "sarnikowski",
+            "repo": "danish_transformers",
+            "stars": 30
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ConvBERT",
+          "description": "Philip Tamimi-Sarnikowski's model",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2021-08-27T08:34:54Z",
+            "owner": "sarnikowski",
+            "repo": "danish_transformers",
+            "stars": 30
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "A-ttack",
+          "description": "Ælæctra-based model for detection of \"textual attacks\" developed by Analyse & Tal. Related to the Ha-te model.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-05-31T16:33:54Z",
+            "owner": "ogtal",
+            "repo": "A-ttack",
+            "stars": 8
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Ha-te",
+          "description": "Hate speech detection based on Ælæctra developed by Analyse & Tal. Related to the A-ttack model.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2022-01-24T10:24:08Z",
+            "owner": "ogtal",
+            "repo": "Ha-te",
+            "stars": 6
+          }
+        }
+      ],
+      "title": "Neural text models"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Tools"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Lemmy",
+          "description": "Lemmatizer for Danish in Python.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2021-09-20T09:01:21Z",
+            "owner": "sorenlind",
+            "repo": "lemmy",
+            "stars": 80
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "cstlemma",
+          "description": "lemmatiser.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-06-30T06:50:48Z",
+            "owner": "kuhumcst",
+            "repo": "cstlemma",
+            "stars": 37
+          }
+        }
+      ],
+      "title": "Lemmatization"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "flair+danlp ner-tagger",
+          "description": "Flair NER tagger trained by the Alexandra Institute.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Python",
+            "last_commit": "2025-02-12T09:20:41Z",
+            "owner": "alexandrainst",
+            "repo": "danlp",
+            "stars": 209
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "daner",
+          "description": "Named entity extraction from ITU NLP. Described in DKIE: Open Source Information Extraction for Danish (Scholia).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2019-07-23T08:20:56Z",
+            "owner": "ITUnlp",
+            "repo": "daner",
+            "stars": 17
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "DaLUKE",
+          "description": "Danish named entity recognition based on LUKE. Described in DaLUKE: The Entity-aware,Danish Language Model.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2022-01-09T14:56:43Z",
+            "owner": "peleiden",
+            "repo": "daluke",
+            "stars": 9
+          }
+        }
+      ],
+      "title": "Named entity recognition"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "afinn",
+          "description": "Python package with AFINN Danish lexicon annotated for sentiment, also installable with .",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2022-04-04T18:14:28Z",
+            "owner": "fnielsen",
+            "repo": "afinn",
+            "stars": 473
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Sentida",
+          "description": "R package With Danish sentiment lexicon and handling of, e.g., negation. Detailed in SENTIDA: A New Tool for Sentiment Analysis in Danish (Scholia).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2021-12-14T22:17:06Z",
+            "owner": "Guscode",
+            "repo": "Sentida",
+            "stars": 22
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "senda",
+          "description": "Python package with transformer-based sentiment analysis from Ekstra Bladet Analyse with as of 2021 state-of-the-art performance on one dataset.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2021-05-25T07:15:49Z",
+            "owner": "ebanalyse",
+            "repo": "senda",
+            "stars": 18
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Hisia",
+          "description": "Python package with pre-trained machine-learning based Danish sentiment analysis by Prayson Wilfred Daniel.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Jupyter Notebook",
+            "last_commit": "2024-06-04T08:35:20Z",
+            "owner": "Proteusiq",
+            "repo": "hisia",
+            "stars": 14
+          }
+        }
+      ],
+      "title": "Sentiment analysis"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "kaldi-sprakbanken",
+          "description": "A recipe for training state-of-the-art(2017) speech recogniser for Danish based on the 16kHz NST database.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2025-09-22T07:06:00Z",
+            "owner": "kaldi-asr",
+            "repo": "kaldi",
+            "stars": 15454
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "danspeech",
+          "description": "DeepSpeech2-based Danish speech recognition in Python",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-02-19T06:06:56Z",
+            "owner": "danspeech",
+            "repo": "danspeech",
+            "stars": 38
+          }
+        }
+      ],
+      "title": "Automatic Speech Recognition"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "DaNLP",
+          "description": "\"a repository for Natural Language Processing resources for the Danish Language.\"",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Python",
+            "last_commit": "2025-02-12T09:20:41Z",
+            "owner": "alexandrainst",
+            "repo": "danlp",
+            "stars": 209
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "dacy",
+          "description": "Danish spaCy pipeline.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-06-11T11:32:32Z",
+            "owner": "centre-for-humanities-computing",
+            "repo": "DaCy",
+            "stars": 104
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "dapipe",
+          "description": "Danish UD-pipe: tokenisation, lemmatisation, PoS tagging, morphology, dependencies.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2018-05-30T12:47:39Z",
+            "owner": "ITUnlp",
+            "repo": "dapipe",
+            "stars": 7
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "bornholmsk",
+          "description": "Datasets and embeddings for the Bornholmsk dialect.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2022-05-11T08:41:52Z",
+            "owner": "StrombergNLP",
+            "repo": "bornholmsk",
+            "stars": 2
+          }
+        }
+      ],
+      "title": "Fundamental processing"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T16:04:25.867Z",
+    "original_repository": "fnielsen/awesome-danish",
+    "original_repository_sha": "28aab0028d2c30a4127976f2d472470dc79b4635",
+    "enhanced_repository": "enhansome/enhansome-danish",
+    "enhanced_repository_description": null,
+    "title": "Awesome Danish with stars"
+  }
+}

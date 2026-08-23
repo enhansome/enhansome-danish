@@ -541,7 +541,7 @@
                 "archived": false,
                 "id": 342374083,
                 "language": "Python",
-                "last_commit": "2026-06-11T11:32:32Z",
+                "last_commit": "2026-08-22T17:49:41Z",
                 "owner": "centre-for-humanities-computing",
                 "repo": "DaCy",
                 "stars": 104
@@ -587,7 +587,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-22T15:29:29.873Z",
+    "last_updated": "2026-08-23T15:30:58.451Z",
     "original_repository": "fnielsen/awesome-danish",
     "original_repository_id": 146891571,
     "original_repository_sha": "28aab0028d2c30a4127976f2d472470dc79b4635",

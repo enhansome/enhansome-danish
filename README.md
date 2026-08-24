@@ -33,15 +33,16 @@ A curated list of awesome resources for Danish language technology
 
 ### Parallel corpora
 
+* [WikiMatrix](https://github.com/facebookresearch/LASER/tree/master/tasks/WikiMatrix) ⚠️ Archived, parallel sentences from Wikipedias. 1620 language pairs, including Danish
 * [Europarl](https://www.statmt.org/europarl/) - parallel sentences between Danish and English from the European Parlament.
 * [ITU Faroese Pairs Dataset](https://huggingface.co/datasets/strombergnlp/itu_faroese_danish) - Faroese-Danish parallel text. Described in *[The ITU Faroese Pairs Dataset](https://arxiv.org/pdf/2206.08727.pdf)* ([Scholia](https://scholia.toolforge.org/work/Q112673011))
 * [JW300](http://opus.nlpl.eu/JW300.php) - "a parallel corpus of over 300 languages with around 100 thousand parallel sentences per language pair on average"
 * [OpenSubtitles2018](http://opus.nlpl.eu/OpenSubtitles-v2018.php) - Parallel corpus from movie and tv subtitles. Described in *[OpenSubtitles2016: Extracting Large Parallel Corpora from Movie and TV Subtitles](http://www.lrec-conf.org/proceedings/lrec2016/pdf/947_Paper.pdf)*.
 * [Tatoeba](https://tatoeba.org/eng/downloads) - Sentences
-* [WikiMatrix](https://github.com/facebookresearch/LASER/tree/master/tasks/WikiMatrix) ⚠️ Archived, parallel sentences from Wikipedias. 1620 language pairs, including Danish
 
 ### Spoken language corpora
 
+* [VoxPopuli](https://github.com/facebookresearch/voxpopuli) ⚠️ Archived - Speech from the European Parliament including 13'600 hours of unannotated Danish. Described in *[VoxPopuli: A Large-Scale Multilingual Speech Corpus for Representation Learning, Semi-Supervised Learning and Interpretation](https://aclanthology.org/2021.acl-long.80.pdf)* ([Scholia](https://scholia.toolforge.org/work/Q109631220))
 * [CoRal](https://huggingface.co/datasets/alexandrainst/coral) - Danish Conversational and Read-aloud Dataset
 * [DanPASS](https://www.danpass.hum.ku.dk/) - Described in *DanPASS - A Danish Phonetically Annotated Spontaneous Speech corpus* ([Scholia](https://scholia.toolforge.org/work/Q71038312))
 * [LANCHART](https://lanchart.hum.ku.dk/) - Centre for Language Change In Real Time. Various audio recordings. Whether the data is available is not immediately apparent. Described in, e.g., *[The data and design of the LANCHART study](https://www.tandfonline.com/doi/pdf/10.1080/03740460903364003)* ([Scholia](https://scholia.toolforge.org/work/Q97756317)).
@@ -52,7 +53,6 @@ A curated list of awesome resources for Danish language technology
   * [NST-speech-16kHz](https://www.nb.no/sprakbanken/en/resource-catalogue/oai-nb-no-sbr-55/) - A 16kHz speech corpus compiled by Nordisk Språkteknologi and made available by the Norwegian Library Service. The speech genre is read-aloud and the text is phonetically balanced. Designed for ASR training and testing.
   * [NST-speech-44kHz](https://www.nb.no/sprakbanken/ressurskatalog/oai-nb-no-sbr-21/) - A 44kHz speech corpus compiled by Nordisk Språkteknologi and made available by the Norwegian Library Service. Designed for speech synthesis.
 * [VoxLingua107](http://bark.phon.ioc.ee/voxlingua107/) - 28 hours audio with unannotated Danish speech sampled from YouTube videos. Described in *[VoxLingua107: a Dataset for Spoken Language Recognition](https://arxiv.org/pdf/2011.12998.pdf)* ([Scholia](https://scholia.toolforge.org/work/Q110042720))
-* [VoxPopuli](https://github.com/facebookresearch/voxpopuli) ⚠️ Archived - Speech from the European Parliament including 13'600 hours of unannotated Danish. Described in *[VoxPopuli: A Large-Scale Multilingual Speech Corpus for Representation Learning, Semi-Supervised Learning and Interpretation](https://aclanthology.org/2021.acl-long.80.pdf)* ([Scholia](https://scholia.toolforge.org/work/Q109631220))
 * [Wikimedia Commons Audio files of Danish language](https://commons.wikimedia.org/wiki/Category:Audio_files_of_Danish_language) - Recordings of readings of articles from the Danish Wikipedia, Danish words and a few Danish literary works.
 
 ### Dictionaries and ontologies
@@ -89,9 +89,9 @@ A curated list of awesome resources for Danish language technology
 
 ### Embeddings
 
+* [Byte-Pair Encoding embedding](https://github.com/bheinzerling/bpemb) ⭐ 1,224 | 🐛 6 | 🌐 Python | 📅 2024-10-01 - Gensim-based subword embedding. A large number of Danish embeddings are available. They differ in the size of the vocabulary (from 1000 to 200000) and subspace dimensions (from 25 to 300).
 * [cc.da.300](https://fasttext.cc/docs/en/crawl-vectors.html) ([bin file GB large](https://s3-us-west-1.amazonaws.com/fasttext-vectors/word-vectors-v2/cc.da.300.bin.gz)) - fastText-trained embedding on Danish part of *Common Crawl* and Danish Wikipedia. Read more about the method in *[Learning Word Vectors for 157 Languages](https://arxiv.org/pdf/1802.06893)* ([Scholia](https://scholia.toolforge.org/work/Q49985142)).
 * [wiki.da](https://fasttext.cc/docs/en/pretrained-vectors.html) ([bin+text file](https://s3-us-west-1.amazonaws.com/fasttext-vectors/wiki.da.zip)) - fastText-trained embedding on Danish Wikipedia. Read more about the method in *[Enriching Word Vectors with Subword Information](https://arxiv.org/pdf/1607.04606)* ([Scholia](https://scholia.toolforge.org/work/Q28775150)).
-* [Byte-Pair Encoding embedding](https://github.com/bheinzerling/bpemb) ⭐ 1,224 | 🐛 6 | 🌐 Python | 📅 2024-10-01 - Gensim-based subword embedding. A large number of Danish embeddings are available. They differ in the size of the vocabulary (from 1000 to 200000) and subspace dimensions (from 25 to 300).
 * [NLPL word embeddings repository](http://vectors.nlpl.eu/repository/) - NLPL word embeddings repository by Language Technology Group at the University of Oslo. Two Danish embedding models as of November 2020.
   * [Danish NLPL word embedding](http://vectors.nlpl.eu/repository/20/38.zip) - 100-dimensional word2vec skipgram model trained by Andrey Kutuzov based on the Danish CoNLL17 corpus.
 * [Danish DSL and Reddit word2vec word embeddings](https://figshare.com/articles/Danish_DSL_and_Reddit_word2vec_word_embeddings/8099927/1) - 300-dimensional CBOW word2vec word embedding by Emil Middelboe and Anders Lillie trained on Danish DSL corpus and Reddit.
@@ -153,7 +153,7 @@ A curated list of awesome resources for Danish language technology
 
 ### Automatic Speech Recognition
 
-* [kaldi-sprakbanken](https://github.com/kaldi-asr/kaldi/tree/master/egs/sprakbanken/s5) ⭐ 15,465 | 🐛 261 | 🌐 Shell | 📅 2025-09-22 - A recipe for training state-of-the-art(2017) speech recogniser for Danish based on the 16kHz NST database.
+* [kaldi-sprakbanken](https://github.com/kaldi-asr/kaldi/tree/master/egs/sprakbanken/s5) ⭐ 15,466 | 🐛 261 | 🌐 Shell | 📅 2025-09-22 - A recipe for training state-of-the-art(2017) speech recogniser for Danish based on the 16kHz NST database.
 * [danspeech](https://github.com/danspeech/danspeech) ⭐ 38 | 🐛 2 | 🌐 Python | 📅 2023-02-19 - DeepSpeech2-based Danish speech recognition in Python
 
 ### Speech Synthesis (text-to-speech)
@@ -166,7 +166,7 @@ A curated list of awesome resources for Danish language technology
 ### Fundamental processing
 
 * [DaNLP](https://github.com/alexandrainst/danlp/) ⚠️ Archived - "a repository for Natural Language Processing resources for the Danish Language."
-* [dacy](https://github.com/KennethEnevoldsen/DaCy) ⭐ 104 | 🐛 5 | 🌐 Python | 📅 2026-08-22 - Danish spaCy pipeline.
+* [dacy](https://github.com/KennethEnevoldsen/DaCy) ⭐ 104 | 🐛 4 | 🌐 Python | 📅 2026-08-24 - Danish spaCy pipeline.
 * [dapipe](https://github.com/ITUnlp/dapipe) ⭐ 7 | 🐛 1 | 🌐 Shell | 📅 2018-05-30 - Danish UD-pipe: tokenisation, lemmatisation, PoS tagging, morphology, dependencies.
 * [bornholmsk](https://github.com/leondz/bornholmsk) ⭐ 2 | 🐛 8 | 🌐 HTML | 📅 2022-05-11 - Datasets and embeddings for the Bornholmsk dialect.
 * [UDPipe](http://ufal.mff.cuni.cz/udpipe) - Non-language specific version of dapipe. Newer version of the Danish-DDT model than that which is offered by dapipe is available at <https://lindat.mff.cuni.cz/repository/xmlui/handle/11234/1-2998>
@@ -195,4 +195,4 @@ A curated list of awesome resources for Danish language technology
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-23._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-24._

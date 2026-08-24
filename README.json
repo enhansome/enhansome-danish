@@ -89,6 +89,50 @@
           "children": [
             {
               "node_type": "item",
+              "title": "WikiMatrix",
+              "description": ", parallel sentences from Wikipedias. 1620 language pairs, including Danish",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 138050436,
+                "language": "Jupyter Notebook",
+                "last_commit": "2024-05-02T20:24:47Z",
+                "owner": "facebookresearch",
+                "repo": "LASER",
+                "stars": 3660
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Parallel corpora"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "VoxPopuli",
+              "description": "Speech from the European Parliament including 13'600 hours of unannotated Danish. Described in VoxPopuli: A Large-Scale Multilingual Speech Corpus for Representation Learning, Semi-Supervised Learning and Interpretation (Scholia)",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 327985815,
+                "language": "Python",
+                "last_commit": "2023-04-02T02:52:59Z",
+                "owner": "facebookresearch",
+                "repo": "voxpopuli",
+                "stars": 573
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Spoken language corpora"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
               "title": "AFINN",
               "description": "Danish lexicons annotated for sentiment.",
               "children": [],
@@ -218,6 +262,28 @@
           "description": null,
           "node_type": "group",
           "title": "Word sets"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Byte-Pair Encoding embedding",
+              "description": "Gensim-based subword embedding. A large number of Danish embeddings are available. They differ in the size of the vocabulary (from 1000 to 200000) and subspace dimensions (from 25 to 300).",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 105769029,
+                "language": "Python",
+                "last_commit": "2024-10-01T02:49:47Z",
+                "owner": "bheinzerling",
+                "repo": "bpemb",
+                "stars": 1224
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Embeddings"
         },
         {
           "children": [
@@ -363,6 +429,28 @@
           "children": [
             {
               "node_type": "item",
+              "title": "punctfix",
+              "description": "\"Adds punctuation and capitalization for a given text.\"",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 473107968,
+                "language": "Python",
+                "last_commit": "2024-02-16T11:28:15Z",
+                "owner": "alvenirai",
+                "repo": "punctfix",
+                "stars": 24
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Punctuation"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
               "title": "flair+danlp ner-tagger",
               "description": "Flair NER tagger trained by the Alexandra Institute.",
               "children": [],
@@ -492,7 +580,7 @@
                 "last_commit": "2025-09-22T07:06:00Z",
                 "owner": "kaldi-asr",
                 "repo": "kaldi",
-                "stars": 15465
+                "stars": 15466
               }
             },
             {
@@ -541,7 +629,7 @@
                 "archived": false,
                 "id": 342374083,
                 "language": "Python",
-                "last_commit": "2026-08-22T17:49:41Z",
+                "last_commit": "2026-08-24T13:09:23Z",
                 "owner": "centre-for-humanities-computing",
                 "repo": "DaCy",
                 "stars": 104
@@ -587,7 +675,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-23T15:30:58.451Z",
+    "last_updated": "2026-08-24T14:32:00.005Z",
     "original_repository": "fnielsen/awesome-danish",
     "original_repository_id": 146891571,
     "original_repository_sha": "28aab0028d2c30a4127976f2d472470dc79b4635",

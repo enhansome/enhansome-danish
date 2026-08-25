@@ -580,7 +580,7 @@
                 "last_commit": "2025-09-22T07:06:00Z",
                 "owner": "kaldi-asr",
                 "repo": "kaldi",
-                "stars": 15464
+                "stars": 15465
               }
             },
             {
@@ -629,7 +629,7 @@
                 "archived": false,
                 "id": 342374083,
                 "language": "Python",
-                "last_commit": "2026-08-24T19:02:48Z",
+                "last_commit": "2026-08-25T14:41:35Z",
                 "owner": "centre-for-humanities-computing",
                 "repo": "DaCy",
                 "stars": 104
@@ -675,7 +675,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T06:26:42.103Z",
+    "last_updated": "2026-08-25T15:53:09.179Z",
     "original_repository": "fnielsen/awesome-danish",
     "original_repository_id": 146891571,
     "original_repository_sha": "28aab0028d2c30a4127976f2d472470dc79b4635",

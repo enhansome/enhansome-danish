@@ -580,7 +580,7 @@
                 "last_commit": "2025-09-22T07:06:00Z",
                 "owner": "kaldi-asr",
                 "repo": "kaldi",
-                "stars": 15465
+                "stars": 15469
               }
             },
             {
@@ -675,7 +675,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T15:53:09.179Z",
+    "last_updated": "2026-08-26T16:24:41.976Z",
     "original_repository": "fnielsen/awesome-danish",
     "original_repository_id": 146891571,
     "original_repository_sha": "28aab0028d2c30a4127976f2d472470dc79b4635",

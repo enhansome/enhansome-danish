@@ -153,7 +153,7 @@ A curated list of awesome resources for Danish language technology
 
 ### Automatic Speech Recognition
 
-* [kaldi-sprakbanken](https://github.com/kaldi-asr/kaldi/tree/master/egs/sprakbanken/s5) ⭐ 15,465 | 🐛 261 | 🌐 Shell | 📅 2025-09-22 - A recipe for training state-of-the-art(2017) speech recogniser for Danish based on the 16kHz NST database.
+* [kaldi-sprakbanken](https://github.com/kaldi-asr/kaldi/tree/master/egs/sprakbanken/s5) ⭐ 15,469 | 🐛 261 | 🌐 Shell | 📅 2025-09-22 - A recipe for training state-of-the-art(2017) speech recogniser for Danish based on the 16kHz NST database.
 * [danspeech](https://github.com/danspeech/danspeech) ⭐ 38 | 🐛 2 | 🌐 Python | 📅 2023-02-19 - DeepSpeech2-based Danish speech recognition in Python
 
 ### Speech Synthesis (text-to-speech)
@@ -195,4 +195,4 @@ A curated list of awesome resources for Danish language technology
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-25._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-26._

@@ -166,7 +166,7 @@ A curated list of awesome resources for Danish language technology
 ### Fundamental processing
 
 * [DaNLP](https://github.com/alexandrainst/danlp/) ⚠️ Archived - "a repository for Natural Language Processing resources for the Danish Language."
-* [dacy](https://github.com/KennethEnevoldsen/DaCy) ⭐ 104 | 🐛 10 | 🌐 Python | 📅 2026-08-25 - Danish spaCy pipeline.
+* [dacy](https://github.com/KennethEnevoldsen/DaCy) ⭐ 104 | 🐛 12 | 🌐 Python | 📅 2026-08-25 - Danish spaCy pipeline.
 * [dapipe](https://github.com/ITUnlp/dapipe) ⭐ 7 | 🐛 1 | 🌐 Shell | 📅 2018-05-30 - Danish UD-pipe: tokenisation, lemmatisation, PoS tagging, morphology, dependencies.
 * [bornholmsk](https://github.com/leondz/bornholmsk) ⭐ 2 | 🐛 8 | 🌐 HTML | 📅 2022-05-11 - Datasets and embeddings for the Bornholmsk dialect.
 * [UDPipe](http://ufal.mff.cuni.cz/udpipe) - Non-language specific version of dapipe. Newer version of the Danish-DDT model than that which is offered by dapipe is available at <https://lindat.mff.cuni.cz/repository/xmlui/handle/11234/1-2998>
@@ -195,4 +195,4 @@ A curated list of awesome resources for Danish language technology
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-26._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-27._

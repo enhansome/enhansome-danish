@@ -675,9 +675,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T16:24:41.976Z",
-    "original_repository": "fnielsen/awesome-danish",
-    "original_repository_id": 146891571,
+    "last_updated": "2026-08-27T11:35:55.880Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 146891571,
+      "language": null,
+      "last_commit": "2024-12-11T13:08:59Z",
+      "owner": "fnielsen",
+      "repo": "awesome-danish",
+      "stars": 197
+    },
     "original_repository_sha": "28aab0028d2c30a4127976f2d472470dc79b4635",
     "enhanced_repository": "enhansome/enhansome-danish",
     "enhanced_repository_description": null,

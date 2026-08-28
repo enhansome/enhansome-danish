@@ -153,7 +153,7 @@ A curated list of awesome resources for Danish language technology
 
 ### Automatic Speech Recognition
 
-* [kaldi-sprakbanken](https://github.com/kaldi-asr/kaldi/tree/master/egs/sprakbanken/s5) ⭐ 15,469 | 🐛 261 | 🌐 Shell | 📅 2025-09-22 - A recipe for training state-of-the-art(2017) speech recogniser for Danish based on the 16kHz NST database.
+* [kaldi-sprakbanken](https://github.com/kaldi-asr/kaldi/tree/master/egs/sprakbanken/s5) ⭐ 15,468 | 🐛 261 | 🌐 Shell | 📅 2025-09-22 - A recipe for training state-of-the-art(2017) speech recogniser for Danish based on the 16kHz NST database.
 * [danspeech](https://github.com/danspeech/danspeech) ⭐ 38 | 🐛 2 | 🌐 Python | 📅 2023-02-19 - DeepSpeech2-based Danish speech recognition in Python
 
 ### Speech Synthesis (text-to-speech)
@@ -166,7 +166,7 @@ A curated list of awesome resources for Danish language technology
 ### Fundamental processing
 
 * [DaNLP](https://github.com/alexandrainst/danlp/) ⚠️ Archived - "a repository for Natural Language Processing resources for the Danish Language."
-* [dacy](https://github.com/KennethEnevoldsen/DaCy) ⭐ 104 | 🐛 12 | 🌐 Python | 📅 2026-08-25 - Danish spaCy pipeline.
+* [dacy](https://github.com/KennethEnevoldsen/DaCy) ⭐ 104 | 🐛 12 | 🌐 Python | 📅 2026-08-27 - Danish spaCy pipeline.
 * [dapipe](https://github.com/ITUnlp/dapipe) ⭐ 7 | 🐛 1 | 🌐 Shell | 📅 2018-05-30 - Danish UD-pipe: tokenisation, lemmatisation, PoS tagging, morphology, dependencies.
 * [bornholmsk](https://github.com/leondz/bornholmsk) ⭐ 2 | 🐛 8 | 🌐 HTML | 📅 2022-05-11 - Datasets and embeddings for the Bornholmsk dialect.
 * [UDPipe](http://ufal.mff.cuni.cz/udpipe) - Non-language specific version of dapipe. Newer version of the Danish-DDT model than that which is offered by dapipe is available at <https://lindat.mff.cuni.cz/repository/xmlui/handle/11234/1-2998>
@@ -195,4 +195,4 @@ A curated list of awesome resources for Danish language technology
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-27._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-28._

@@ -18,7 +18,8 @@
                 "owner": "Helsinki-NLP",
                 "repo": "XED",
                 "stars": 64
-              }
+              },
+              "first_seen": "2026-08-28T23:59:29.053Z"
             },
             {
               "node_type": "item",
@@ -33,7 +34,8 @@
                 "owner": "certainlyio",
                 "repo": "corona_dataset",
                 "stars": 11
-              }
+              },
+              "first_seen": "2026-08-28T23:59:29.053Z"
             },
             {
               "node_type": "item",
@@ -48,7 +50,8 @@
                 "owner": "bplank",
                 "repo": "DaNplus",
                 "stars": 4
-              }
+              },
+              "first_seen": "2026-08-28T23:59:29.053Z"
             },
             {
               "node_type": "item",
@@ -63,7 +66,8 @@
                 "owner": "AlessandroGianfelici",
                 "repo": "danish_reviews_dataset",
                 "stars": 2
-              }
+              },
+              "first_seen": "2026-08-28T23:59:29.053Z"
             },
             {
               "node_type": "item",
@@ -78,7 +82,8 @@
                 "owner": "coastalcph",
                 "repo": "semdax",
                 "stars": 1
-              }
+              },
+              "first_seen": "2026-08-28T23:59:29.053Z"
             }
           ],
           "description": null,
@@ -100,7 +105,8 @@
                 "owner": "facebookresearch",
                 "repo": "LASER",
                 "stars": 3660
-              }
+              },
+              "first_seen": "2026-08-28T23:59:29.053Z"
             }
           ],
           "description": null,
@@ -122,7 +128,8 @@
                 "owner": "facebookresearch",
                 "repo": "voxpopuli",
                 "stars": 573
-              }
+              },
+              "first_seen": "2026-08-28T23:59:29.053Z"
             }
           ],
           "description": null,
@@ -144,7 +151,8 @@
                 "owner": "fnielsen",
                 "repo": "afinn",
                 "stars": 473
-              }
+              },
+              "first_seen": "2026-08-28T23:59:29.053Z"
             },
             {
               "node_type": "item",
@@ -159,7 +167,8 @@
                 "owner": "dsldk",
                 "repo": "danish-sentiment-lexicon",
                 "stars": 9
-              }
+              },
+              "first_seen": "2026-08-28T23:59:29.053Z"
             },
             {
               "node_type": "item",
@@ -174,7 +183,8 @@
                 "owner": "steffan267",
                 "repo": "Sentiment-Analysis-on-Danish-Social-Media",
                 "stars": 9
-              }
+              },
+              "first_seen": "2026-08-28T23:59:29.053Z"
             },
             {
               "node_type": "item",
@@ -189,7 +199,8 @@
                 "owner": "billdthompson",
                 "repo": "cogsci-auto-norm",
                 "stars": 0
-              }
+              },
+              "first_seen": "2026-08-28T23:59:29.053Z"
             }
           ],
           "description": null,
@@ -211,7 +222,8 @@
                 "owner": "fnielsen",
                 "repo": "dasem",
                 "stars": 18
-              }
+              },
+              "first_seen": "2026-08-28T23:59:29.053Z"
             },
             {
               "node_type": "item",
@@ -226,7 +238,8 @@
                 "owner": "fnielsen",
                 "repo": "dasem",
                 "stars": 18
-              }
+              },
+              "first_seen": "2026-08-28T23:59:29.053Z"
             },
             {
               "node_type": "item",
@@ -241,7 +254,8 @@
                 "owner": "kuhumcst",
                 "repo": "Danish-Similarity-Dataset",
                 "stars": 8
-              }
+              },
+              "first_seen": "2026-08-28T23:59:29.053Z"
             },
             {
               "node_type": "item",
@@ -256,7 +270,8 @@
                 "owner": "jannikskytt",
                 "repo": "DaClinWordEmbeddings",
                 "stars": 0
-              }
+              },
+              "first_seen": "2026-08-28T23:59:29.053Z"
             }
           ],
           "description": null,
@@ -278,7 +293,8 @@
                 "owner": "bheinzerling",
                 "repo": "bpemb",
                 "stars": 1224
-              }
+              },
+              "first_seen": "2026-08-28T23:59:29.053Z"
             }
           ],
           "description": null,
@@ -300,7 +316,8 @@
                 "owner": "certainlyio",
                 "repo": "nordic_bert",
                 "stars": 174
-              }
+              },
+              "first_seen": "2026-08-28T23:59:29.053Z"
             },
             {
               "node_type": "item",
@@ -315,7 +332,8 @@
                 "owner": "TurkuNLP",
                 "repo": "wikibert",
                 "stars": 33
-              }
+              },
+              "first_seen": "2026-08-28T23:59:29.053Z"
             },
             {
               "node_type": "item",
@@ -330,7 +348,8 @@
                 "owner": "sarnikowski",
                 "repo": "danish_transformers",
                 "stars": 30
-              }
+              },
+              "first_seen": "2026-08-28T23:59:29.053Z"
             },
             {
               "node_type": "item",
@@ -345,7 +364,8 @@
                 "owner": "sarnikowski",
                 "repo": "danish_transformers",
                 "stars": 30
-              }
+              },
+              "first_seen": "2026-08-28T23:59:29.053Z"
             },
             {
               "node_type": "item",
@@ -360,7 +380,8 @@
                 "owner": "ogtal",
                 "repo": "A-ttack",
                 "stars": 8
-              }
+              },
+              "first_seen": "2026-08-28T23:59:29.053Z"
             },
             {
               "node_type": "item",
@@ -375,7 +396,8 @@
                 "owner": "ogtal",
                 "repo": "Ha-te",
                 "stars": 6
-              }
+              },
+              "first_seen": "2026-08-28T23:59:29.053Z"
             }
           ],
           "description": null,
@@ -403,7 +425,8 @@
                 "owner": "sorenlind",
                 "repo": "lemmy",
                 "stars": 80
-              }
+              },
+              "first_seen": "2026-08-28T23:59:29.053Z"
             },
             {
               "node_type": "item",
@@ -418,7 +441,8 @@
                 "owner": "kuhumcst",
                 "repo": "cstlemma",
                 "stars": 37
-              }
+              },
+              "first_seen": "2026-08-28T23:59:29.053Z"
             }
           ],
           "description": null,
@@ -440,7 +464,8 @@
                 "owner": "alvenirai",
                 "repo": "punctfix",
                 "stars": 24
-              }
+              },
+              "first_seen": "2026-08-28T23:59:29.053Z"
             }
           ],
           "description": null,
@@ -462,7 +487,8 @@
                 "owner": "alexandrainst",
                 "repo": "danlp",
                 "stars": 209
-              }
+              },
+              "first_seen": "2026-08-28T23:59:29.053Z"
             },
             {
               "node_type": "item",
@@ -477,7 +503,8 @@
                 "owner": "ITUnlp",
                 "repo": "daner",
                 "stars": 17
-              }
+              },
+              "first_seen": "2026-08-28T23:59:29.053Z"
             },
             {
               "node_type": "item",
@@ -492,7 +519,8 @@
                 "owner": "peleiden",
                 "repo": "daluke",
                 "stars": 9
-              }
+              },
+              "first_seen": "2026-08-28T23:59:29.053Z"
             }
           ],
           "description": null,
@@ -514,7 +542,8 @@
                 "owner": "fnielsen",
                 "repo": "afinn",
                 "stars": 473
-              }
+              },
+              "first_seen": "2026-08-28T23:59:29.053Z"
             },
             {
               "node_type": "item",
@@ -529,7 +558,8 @@
                 "owner": "Guscode",
                 "repo": "Sentida",
                 "stars": 22
-              }
+              },
+              "first_seen": "2026-08-28T23:59:29.053Z"
             },
             {
               "node_type": "item",
@@ -544,7 +574,8 @@
                 "owner": "ebanalyse",
                 "repo": "senda",
                 "stars": 18
-              }
+              },
+              "first_seen": "2026-08-28T23:59:29.053Z"
             },
             {
               "node_type": "item",
@@ -559,7 +590,8 @@
                 "owner": "Proteusiq",
                 "repo": "hisia",
                 "stars": 14
-              }
+              },
+              "first_seen": "2026-08-28T23:59:29.053Z"
             }
           ],
           "description": null,
@@ -580,8 +612,9 @@
                 "last_commit": "2025-09-22T07:06:00Z",
                 "owner": "kaldi-asr",
                 "repo": "kaldi",
-                "stars": 15468
-              }
+                "stars": 15469
+              },
+              "first_seen": "2026-08-28T23:59:29.053Z"
             },
             {
               "node_type": "item",
@@ -596,7 +629,8 @@
                 "owner": "danspeech",
                 "repo": "danspeech",
                 "stars": 38
-              }
+              },
+              "first_seen": "2026-08-28T23:59:29.053Z"
             }
           ],
           "description": null,
@@ -618,7 +652,8 @@
                 "owner": "alexandrainst",
                 "repo": "danlp",
                 "stars": 209
-              }
+              },
+              "first_seen": "2026-08-28T23:59:29.053Z"
             },
             {
               "node_type": "item",
@@ -633,7 +668,8 @@
                 "owner": "centre-for-humanities-computing",
                 "repo": "DaCy",
                 "stars": 104
-              }
+              },
+              "first_seen": "2026-08-28T23:59:29.053Z"
             },
             {
               "node_type": "item",
@@ -648,7 +684,8 @@
                 "owner": "ITUnlp",
                 "repo": "dapipe",
                 "stars": 7
-              }
+              },
+              "first_seen": "2026-08-28T23:59:29.053Z"
             },
             {
               "node_type": "item",
@@ -663,7 +700,8 @@
                 "owner": "StrombergNLP",
                 "repo": "bornholmsk",
                 "stars": 2
-              }
+              },
+              "first_seen": "2026-08-28T23:59:29.053Z"
             }
           ],
           "description": null,
@@ -675,7 +713,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T00:21:28.945Z",
+    "last_updated": "2026-08-28T23:59:29.053Z",
     "original_repository_info": {
       "archived": false,
       "id": 146891571,

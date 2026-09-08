@@ -98,7 +98,7 @@ A curated list of awesome resources for Danish language technology
 
 ### Neural text models
 
-* [Danish BERT](https://github.com/mollerhoj/danish_bert) ⭐ 174 | 🐛 11 | 📅 2021-11-12 - Certainly's (Botxo/Møllerhøj) Weights for a BERT trained on a large Danish corpora.
+* [Danish BERT](https://github.com/mollerhoj/danish_bert) ⭐ 173 | 🐛 11 | 📅 2021-11-12 - Certainly's (Botxo/Møllerhøj) Weights for a BERT trained on a large Danish corpora.
 * [WikiBERT](https://github.com/turkunlp/wikibert) ⭐ 33 | 🐛 1 | 📅 2020-05-25 - BERT model for many languages, including Danish. Described in *[WikiBERT models: deep transfer learning for many languages ](https://ep.liu.se/ecp/178/001/ecp2021178001.pdf)* ([Scholia](https://scholia.toolforge.org/work/Q107059867))
 * [Danish ELECTRA](https://github.com/sarnikowski/danish_transformers/tree/main/electra) ⭐ 30 | 🐛 0 | 📅 2021-08-27 - Philip Tamimi-Sarnikowski's Danish ELECTRA model. Available in the transformer library.
 * [ConvBERT](https://github.com/sarnikowski/danish_transformers/blob/main/convbert/README.md) ⭐ 30 | 🐛 0 | 📅 2021-08-27 - Philip Tamimi-Sarnikowski's model
@@ -195,4 +195,4 @@ A curated list of awesome resources for Danish language technology
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-07._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-08._

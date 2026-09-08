@@ -443,7 +443,7 @@
                 "open_issues": 11,
                 "owner": "certainlyio",
                 "repo": "nordic_bert",
-                "stars": 174,
+                "stars": 173,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:59:29.053Z"
@@ -1037,7 +1037,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-07T19:05:42.721Z",
+    "last_updated": "2026-09-08T18:30:49.293Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome resources for Danish language technology",

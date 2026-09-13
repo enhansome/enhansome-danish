@@ -409,7 +409,7 @@
                 "open_issues": 6,
                 "owner": "bheinzerling",
                 "repo": "bpemb",
-                "stars": 1223,
+                "stars": 1224,
                 "topics": [
                   "embeddings",
                   "multilingual",
@@ -1037,7 +1037,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-12T17:44:12.866Z",
+    "last_updated": "2026-09-13T18:05:00.971Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome resources for Danish language technology",

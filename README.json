@@ -879,7 +879,7 @@
                 "open_issues": 262,
                 "owner": "kaldi-asr",
                 "repo": "kaldi",
-                "stars": 15491,
+                "stars": 15490,
                 "topics": [
                   "c-plus-plus",
                   "cuda",
@@ -964,7 +964,7 @@
                 "id": 342374083,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-23T16:35:22Z",
+                "last_commit": "2026-09-30T16:38:34Z",
                 "open_issues": 15,
                 "owner": "centre-for-humanities-computing",
                 "repo": "DaCy",
@@ -1037,7 +1037,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-29T19:55:50.231Z",
+    "last_updated": "2026-09-30T19:55:44.088Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome resources for Danish language technology",

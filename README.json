@@ -138,7 +138,7 @@
                 "open_issues": 49,
                 "owner": "facebookresearch",
                 "repo": "LASER",
-                "stars": 3660,
+                "stars": 3659,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:59:29.053Z"
@@ -879,7 +879,7 @@
                 "open_issues": 262,
                 "owner": "kaldi-asr",
                 "repo": "kaldi",
-                "stars": 15492,
+                "stars": 15493,
                 "topics": [
                   "c-plus-plus",
                   "cuda",
@@ -964,8 +964,8 @@
                 "id": 342374083,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-01T13:11:44Z",
-                "open_issues": 15,
+                "last_commit": "2026-10-02T09:34:58Z",
+                "open_issues": 13,
                 "owner": "centre-for-humanities-computing",
                 "repo": "DaCy",
                 "stars": 104,
@@ -1037,7 +1037,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-01T20:18:04.708Z",
+    "last_updated": "2026-10-02T19:51:47.940Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome resources for Danish language technology",

@@ -166,7 +166,7 @@
                 "open_issues": 13,
                 "owner": "facebookresearch",
                 "repo": "voxpopuli",
-                "stars": 573,
+                "stars": 574,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:59:29.053Z"
@@ -1037,7 +1037,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T18:38:38.439Z",
+    "last_updated": "2026-10-04T18:36:06.482Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome resources for Danish language technology",

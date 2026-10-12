@@ -409,7 +409,7 @@
                 "open_issues": 6,
                 "owner": "bheinzerling",
                 "repo": "bpemb",
-                "stars": 1225,
+                "stars": 1226,
                 "topics": [
                   "embeddings",
                   "multilingual",
@@ -965,7 +965,7 @@
                 "language": "Python",
                 "license": "Apache-2.0",
                 "last_commit": "2026-10-05T12:44:03Z",
-                "open_issues": 14,
+                "open_issues": 16,
                 "owner": "centre-for-humanities-computing",
                 "repo": "DaCy",
                 "stars": 104,
@@ -1037,7 +1037,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-11T19:27:51.866Z",
+    "last_updated": "2026-10-12T22:27:54.330Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome resources for Danish language technology",

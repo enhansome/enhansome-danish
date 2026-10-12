@@ -89,7 +89,7 @@ A curated list of awesome resources for Danish language technology
 
 ### Embeddings
 
-* [Byte-Pair Encoding embedding](https://github.com/bheinzerling/bpemb) ⭐ 1,225 | 🐛 6 | 🌐 Python | 📅 2024-10-01 - Gensim-based subword embedding. A large number of Danish embeddings are available. They differ in the size of the vocabulary (from 1000 to 200000) and subspace dimensions (from 25 to 300).
+* [Byte-Pair Encoding embedding](https://github.com/bheinzerling/bpemb) ⭐ 1,226 | 🐛 6 | 🌐 Python | 📅 2024-10-01 - Gensim-based subword embedding. A large number of Danish embeddings are available. They differ in the size of the vocabulary (from 1000 to 200000) and subspace dimensions (from 25 to 300).
 * [cc.da.300](https://fasttext.cc/docs/en/crawl-vectors.html) ([bin file GB large](https://s3-us-west-1.amazonaws.com/fasttext-vectors/word-vectors-v2/cc.da.300.bin.gz)) - fastText-trained embedding on Danish part of *Common Crawl* and Danish Wikipedia. Read more about the method in *[Learning Word Vectors for 157 Languages](https://arxiv.org/pdf/1802.06893)* ([Scholia](https://scholia.toolforge.org/work/Q49985142)).
 * [wiki.da](https://fasttext.cc/docs/en/pretrained-vectors.html) ([bin+text file](https://s3-us-west-1.amazonaws.com/fasttext-vectors/wiki.da.zip)) - fastText-trained embedding on Danish Wikipedia. Read more about the method in *[Enriching Word Vectors with Subword Information](https://arxiv.org/pdf/1607.04606)* ([Scholia](https://scholia.toolforge.org/work/Q28775150)).
 * [NLPL word embeddings repository](http://vectors.nlpl.eu/repository/) - NLPL word embeddings repository by Language Technology Group at the University of Oslo. Two Danish embedding models as of November 2020.
@@ -166,7 +166,7 @@ A curated list of awesome resources for Danish language technology
 ### Fundamental processing
 
 * [DaNLP](https://github.com/alexandrainst/danlp/) ⚠️ Archived - "a repository for Natural Language Processing resources for the Danish Language."
-* [dacy](https://github.com/KennethEnevoldsen/DaCy) ⭐ 104 | 🐛 14 | 🌐 Python | 📅 2026-10-05 - Danish spaCy pipeline.
+* [dacy](https://github.com/KennethEnevoldsen/DaCy) ⭐ 104 | 🐛 16 | 🌐 Python | 📅 2026-10-05 - Danish spaCy pipeline.
 * [dapipe](https://github.com/ITUnlp/dapipe) ⭐ 7 | 🐛 1 | 🌐 Shell | 📅 2018-05-30 - Danish UD-pipe: tokenisation, lemmatisation, PoS tagging, morphology, dependencies.
 * [bornholmsk](https://github.com/leondz/bornholmsk) ⭐ 2 | 🐛 8 | 🌐 HTML | 📅 2022-05-11 - Datasets and embeddings for the Bornholmsk dialect.
 * [UDPipe](http://ufal.mff.cuni.cz/udpipe) - Non-language specific version of dapipe. Newer version of the Danish-DDT model than that which is offered by dapipe is available at <https://lindat.mff.cuni.cz/repository/xmlui/handle/11234/1-2998>
@@ -195,4 +195,4 @@ A curated list of awesome resources for Danish language technology
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-11._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-12._

@@ -138,7 +138,7 @@
                 "open_issues": 49,
                 "owner": "facebookresearch",
                 "repo": "LASER",
-                "stars": 3659,
+                "stars": 3660,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:59:29.053Z"
@@ -166,7 +166,7 @@
                 "open_issues": 13,
                 "owner": "facebookresearch",
                 "repo": "voxpopuli",
-                "stars": 574,
+                "stars": 575,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:59:29.053Z"
@@ -409,7 +409,7 @@
                 "open_issues": 6,
                 "owner": "bheinzerling",
                 "repo": "bpemb",
-                "stars": 1226,
+                "stars": 1227,
                 "topics": [
                   "embeddings",
                   "multilingual",
@@ -879,7 +879,7 @@
                 "open_issues": 262,
                 "owner": "kaldi-asr",
                 "repo": "kaldi",
-                "stars": 15492,
+                "stars": 15495,
                 "topics": [
                   "c-plus-plus",
                   "cuda",
@@ -1037,7 +1037,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-12T22:27:54.330Z",
+    "last_updated": "2026-10-13T20:35:51.443Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome resources for Danish language technology",

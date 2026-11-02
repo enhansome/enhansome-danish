@@ -537,7 +537,7 @@
                 "open_issues": 0,
                 "owner": "ogtal",
                 "repo": "A-ttack",
-                "stars": 8,
+                "stars": 9,
                 "topics": [
                   "algorithm",
                   "classification",
@@ -879,7 +879,7 @@
                 "open_issues": 262,
                 "owner": "kaldi-asr",
                 "repo": "kaldi",
-                "stars": 15510,
+                "stars": 15511,
                 "topics": [
                   "c-plus-plus",
                   "cuda",
@@ -1037,7 +1037,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-01T19:30:13.930Z",
+    "last_updated": "2026-11-02T23:03:57.043Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome resources for Danish language technology",

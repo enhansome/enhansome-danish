@@ -102,7 +102,7 @@ A curated list of awesome resources for Danish language technology
 * [WikiBERT](https://github.com/turkunlp/wikibert) ⭐ 33 | 🐛 1 | 📅 2020-05-25 - BERT model for many languages, including Danish. Described in *[WikiBERT models: deep transfer learning for many languages ](https://ep.liu.se/ecp/178/001/ecp2021178001.pdf)* ([Scholia](https://scholia.toolforge.org/work/Q107059867))
 * [Danish ELECTRA](https://github.com/sarnikowski/danish_transformers/tree/main/electra) ⭐ 30 | 🐛 0 | 📅 2021-08-27 - Philip Tamimi-Sarnikowski's Danish ELECTRA model. Available in the transformer library.
 * [ConvBERT](https://github.com/sarnikowski/danish_transformers/blob/main/convbert/README.md) ⭐ 30 | 🐛 0 | 📅 2021-08-27 - Philip Tamimi-Sarnikowski's model
-* [A-ttack](https://github.com/ogtal/A-ttack) ⭐ 8 | 🐛 0 | 🌐 Python | 📅 2023-05-31 - Ælæctra-based model for detection of "textual attacks" developed by [Analyse & Tal](https://ogtal.dk/). Related to the Ha-te model.
+* [A-ttack](https://github.com/ogtal/A-ttack) ⭐ 9 | 🐛 0 | 🌐 Python | 📅 2023-05-31 - Ælæctra-based model for detection of "textual attacks" developed by [Analyse & Tal](https://ogtal.dk/). Related to the Ha-te model.
 * [Ha-te](https://github.com/ogtal/Ha-te) ⭐ 6 | 🐛 0 | 🌐 Python | 📅 2022-01-24 - Hate speech detection based on Ælæctra developed by [Analyse & Tal](https://ogtal.dk/). Related to the A-ttack model.
 * [daT5-summariser](https://huggingface.co/sarakolding/daT5-summariser) - Danish abstractive summarisation of news articles based on mT5-base.
 * [Danish ELMo on OSCAR](https://oscar-corpus.com/files/models/cc/da.zip) - (Link does not work as of December 2020)
@@ -153,7 +153,7 @@ A curated list of awesome resources for Danish language technology
 
 ### Automatic Speech Recognition
 
-* [kaldi-sprakbanken](https://github.com/kaldi-asr/kaldi/tree/master/egs/sprakbanken/s5) ⭐ 15,510 | 🐛 262 | 🌐 Shell | 📅 2025-09-22 - A recipe for training state-of-the-art(2017) speech recogniser for Danish based on the 16kHz NST database.
+* [kaldi-sprakbanken](https://github.com/kaldi-asr/kaldi/tree/master/egs/sprakbanken/s5) ⭐ 15,511 | 🐛 262 | 🌐 Shell | 📅 2025-09-22 - A recipe for training state-of-the-art(2017) speech recogniser for Danish based on the 16kHz NST database.
 * [danspeech](https://github.com/danspeech/danspeech) ⭐ 38 | 🐛 2 | 🌐 Python | 📅 2023-02-19 - DeepSpeech2-based Danish speech recognition in Python
 
 ### Speech Synthesis (text-to-speech)
@@ -195,4 +195,4 @@ A curated list of awesome resources for Danish language technology
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-01._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-02._

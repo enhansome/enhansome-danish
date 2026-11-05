@@ -879,7 +879,7 @@
                 "open_issues": 262,
                 "owner": "kaldi-asr",
                 "repo": "kaldi",
-                "stars": 15508,
+                "stars": 15509,
                 "topics": [
                   "c-plus-plus",
                   "cuda",
@@ -1037,7 +1037,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-04T21:13:54.621Z",
+    "last_updated": "2026-11-05T21:25:53.988Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome resources for Danish language technology",
@@ -1046,7 +1046,7 @@
       "language": null,
       "license": "NOASSERTION",
       "last_commit": "2024-12-11T13:08:59Z",
-      "open_issues": 0,
+      "open_issues": 1,
       "owner": "fnielsen",
       "repo": "awesome-danish",
       "stars": 199,

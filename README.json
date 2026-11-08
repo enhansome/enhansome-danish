@@ -409,7 +409,7 @@
                 "open_issues": 6,
                 "owner": "bheinzerling",
                 "repo": "bpemb",
-                "stars": 1227,
+                "stars": 1228,
                 "topics": [
                   "embeddings",
                   "multilingual",
@@ -879,7 +879,7 @@
                 "open_issues": 262,
                 "owner": "kaldi-asr",
                 "repo": "kaldi",
-                "stars": 15510,
+                "stars": 15512,
                 "topics": [
                   "c-plus-plus",
                   "cuda",
@@ -1037,7 +1037,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-07T19:20:25.432Z",
+    "last_updated": "2026-11-08T19:28:57.039Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome resources for Danish language technology",

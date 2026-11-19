@@ -57,7 +57,7 @@ A curated list of awesome resources for Danish language technology
 
 ### Dictionaries and ontologies
 
-* [AFINN](https://github.com/fnielsen/afinn/tree/master/afinn/data) ⭐ 473 | 🐛 21 | 🌐 Jupyter Notebook | 📅 2022-04-04 - Danish lexicons annotated for sentiment.
+* [AFINN](https://github.com/fnielsen/afinn/tree/master/afinn/data) ⭐ 472 | 🐛 21 | 🌐 Jupyter Notebook | 📅 2022-04-04 - Danish lexicons annotated for sentiment.
 * [The Danish Sentiment Lexicon](https://github.com/dsldk/danish-sentiment-lexicon) ⭐ 9 | 🐛 1 | 📅 2022-12-20 - Det Danske Sentimentleksikon (DDS) 13,859 headwords assigned with polarity values.
 * [SAM lexicon](https://github.com/steffan267/Sentiment-Analysis-on-Danish-Social-Media/tree/master/Lexicon) ⭐ 9 | 🐛 0 | 📅 2020-05-28 - sentiment analysis word list extended from AFINN to 4275 lines. Described in *[Sentiment Analysis Multitool, SAM](https://raw.githubusercontent.com/lucaspuvis/SAM/master/Thesis.pdf)*.
 * [concreteness-estimates-da](https://github.com/billdthompson/cogsci-auto-norm/blob/master/results/concreteness-estimates-da.csv) ⭐ 0 | 🐛 0 | 🌐 Python | 📅 2018-02-02 - Bill D. Thompson's concreteness estimates for Danish words, as detailed in *[Automatic Estimation of Lexical Concreteness in 77 Languages](http://pubman.mpdl.mpg.de/pubman/item/escidoc:2622741/component/escidoc:2622739/Thompson_Lupyan_2018.pdf)* ([Scholia](https://scholia.toolforge.org/work/Q56219750)).
@@ -89,7 +89,7 @@ A curated list of awesome resources for Danish language technology
 
 ### Embeddings
 
-* [Byte-Pair Encoding embedding](https://github.com/bheinzerling/bpemb) ⭐ 1,229 | 🐛 6 | 🌐 Python | 📅 2024-10-01 - Gensim-based subword embedding. A large number of Danish embeddings are available. They differ in the size of the vocabulary (from 1000 to 200000) and subspace dimensions (from 25 to 300).
+* [Byte-Pair Encoding embedding](https://github.com/bheinzerling/bpemb) ⭐ 1,228 | 🐛 6 | 🌐 Python | 📅 2024-10-01 - Gensim-based subword embedding. A large number of Danish embeddings are available. They differ in the size of the vocabulary (from 1000 to 200000) and subspace dimensions (from 25 to 300).
 * [cc.da.300](https://fasttext.cc/docs/en/crawl-vectors.html) ([bin file GB large](https://s3-us-west-1.amazonaws.com/fasttext-vectors/word-vectors-v2/cc.da.300.bin.gz)) - fastText-trained embedding on Danish part of *Common Crawl* and Danish Wikipedia. Read more about the method in *[Learning Word Vectors for 157 Languages](https://arxiv.org/pdf/1802.06893)* ([Scholia](https://scholia.toolforge.org/work/Q49985142)).
 * [wiki.da](https://fasttext.cc/docs/en/pretrained-vectors.html) ([bin+text file](https://s3-us-west-1.amazonaws.com/fasttext-vectors/wiki.da.zip)) - fastText-trained embedding on Danish Wikipedia. Read more about the method in *[Enriching Word Vectors with Subword Information](https://arxiv.org/pdf/1607.04606)* ([Scholia](https://scholia.toolforge.org/work/Q28775150)).
 * [NLPL word embeddings repository](http://vectors.nlpl.eu/repository/) - NLPL word embeddings repository by Language Technology Group at the University of Oslo. Two Danish embedding models as of November 2020.
@@ -146,14 +146,14 @@ A curated list of awesome resources for Danish language technology
 
 ### Sentiment analysis
 
-* [afinn](https://github.com/fnielsen/afinn/) ⭐ 473 | 🐛 21 | 🌐 Jupyter Notebook | 📅 2022-04-04 - Python package with AFINN Danish lexicon annotated for sentiment, also installable with `pip install afinn`.
+* [afinn](https://github.com/fnielsen/afinn/) ⭐ 472 | 🐛 21 | 🌐 Jupyter Notebook | 📅 2022-04-04 - Python package with AFINN Danish lexicon annotated for sentiment, also installable with `pip install afinn`.
 * [Sentida](https://github.com/Guscode/Sentida/) ⭐ 22 | 🐛 3 | 🌐 Python | 📅 2021-12-14 - R package With Danish sentiment lexicon and handling of, e.g., negation. Detailed in *[SENTIDA: A New Tool for Sentiment Analysis in Danish](https://tidsskrift.dk/lwo/article/download/115711/163973/)* ([Scholia](https://scholia.toolforge.org/work/Q67272735)).
 * [senda](https://github.com/ebanalyse/senda) ⭐ 18 | 🐛 0 | 🌐 Python | 📅 2021-05-25 - Python package with transformer-based sentiment analysis from Ekstra Bladet Analyse with as of 2021 [state-of-the-art performance](https://danlp-alexandra.readthedocs.io/en/latest/docs/tasks/sentiment_analysis.html#benchmark-of-polarity-classification) on one dataset.
 * [Hisia](https://github.com/Proteusiq/hisia) ⚠️ Archived - Python package with pre-trained machine-learning based Danish sentiment analysis by Prayson Wilfred Daniel.
 
 ### Automatic Speech Recognition
 
-* [kaldi-sprakbanken](https://github.com/kaldi-asr/kaldi/tree/master/egs/sprakbanken/s5) ⭐ 15,518 | 🐛 262 | 🌐 Shell | 📅 2025-09-22 - A recipe for training state-of-the-art(2017) speech recogniser for Danish based on the 16kHz NST database.
+* [kaldi-sprakbanken](https://github.com/kaldi-asr/kaldi/tree/master/egs/sprakbanken/s5) ⭐ 15,516 | 🐛 262 | 🌐 Shell | 📅 2025-09-22 - A recipe for training state-of-the-art(2017) speech recogniser for Danish based on the 16kHz NST database.
 * [danspeech](https://github.com/danspeech/danspeech) ⭐ 38 | 🐛 2 | 🌐 Python | 📅 2023-02-19 - DeepSpeech2-based Danish speech recognition in Python
 
 ### Speech Synthesis (text-to-speech)
@@ -195,4 +195,4 @@ A curated list of awesome resources for Danish language technology
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-18._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-19._

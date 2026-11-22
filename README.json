@@ -1037,7 +1037,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-21T20:51:34.886Z",
+    "last_updated": "2026-11-22T20:59:16.876Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome resources for Danish language technology",
@@ -1049,7 +1049,7 @@
       "open_issues": 1,
       "owner": "fnielsen",
       "repo": "awesome-danish",
-      "stars": 199,
+      "stars": 200,
       "topics": [
         "awesome",
         "awesome-list",

@@ -964,8 +964,8 @@
                 "id": 342374083,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-22T22:18:41Z",
-                "open_issues": 15,
+                "last_commit": "2026-11-25T16:20:12Z",
+                "open_issues": 16,
                 "owner": "centre-for-humanities-computing",
                 "repo": "DaCy",
                 "stars": 105,
@@ -1037,7 +1037,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-24T23:50:01.179Z",
+    "last_updated": "2026-11-25T23:33:13.637Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome resources for Danish language technology",
